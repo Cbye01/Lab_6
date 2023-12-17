@@ -1,7 +1,0 @@
-D:\Lab_1\Lab_1\Laba_6\Task_3\bin\Debug\Task_3.exe
-D:\Lab_1\Lab_1\Laba_6\Task_3\bin\Debug\Task_3.pdb
-D:\Lab_1\Lab_1\Laba_6\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
-D:\Lab_1\Lab_1\Laba_6\Task_3\obj\Debug\Task_3.csproj.SuggestedBindingRedirects.cache
-D:\Lab_1\Lab_1\Laba_6\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
-D:\Lab_1\Lab_1\Laba_6\Task_3\obj\Debug\Task_3.exe
-D:\Lab_1\Lab_1\Laba_6\Task_3\obj\Debug\Task_3.pdb
